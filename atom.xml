@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[UI Feed]]></title>
+  <link href="http://apurvgupta2804.github.com/atom.xml" rel="self"/>
+  <link href="http://apurvgupta2804.github.com/"/>
+  <updated>2012-04-27T17:37:57+05:30</updated>
+  <id>http://apurvgupta2804.github.com/</id>
+  <author>
+    <name><![CDATA[Apurv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My first blogpost]]></title>
+    <link href="http://apurvgupta2804.github.com/blog/2012/04/27/my-first-blogpost/"/>
+    <updated>2012-04-27T12:11:00+05:30</updated>
+    <id>http://apurvgupta2804.github.com/blog/2012/04/27/my-first-blogpost</id>
+    <content type="html"><![CDATA[<p>Apurv Gupta</p>
+]]></content>
+  </entry>
+  
+</feed>
